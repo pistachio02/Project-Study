@@ -32,6 +32,10 @@
 ### Study Goal
 - blah
 
+### 〽️ Study rules
+- blah
+- blah
+- blah
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,3 +70,10 @@
 - list
 - list
 - list
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=transparent&color=B897FF&height=300&section=footer&text=we%20can%20make%20it!%20&animation=fadeIn&fontSize=50&fontColor=BCBBFA)
+
+
+
