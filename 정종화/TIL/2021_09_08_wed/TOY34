@@ -95,4 +95,3 @@ const LCS = function (str1, str2) {
 최장 공통 부분 수열(LCS : Longest Common Subsequence)란?
 
 -> 간단하게 말하면 두 문자열을 비교할 때 공통적으로 나타나는 부분 순서들 중 가장 긴 것이다.
--> 

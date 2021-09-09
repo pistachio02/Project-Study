@@ -62,4 +62,4 @@ Authentication(인증)과 Authorization(권한부여)의 차이?
 
 
 Authorization Code Grant Type이란?
-->
+-> Authorization Code Grant Type은 Authorization Server에게 토큰을 발행받기 위해서 code값을 요청하고 이 code값을 바탕으로 토큰을 발급받는 방식을 뜻한다.
